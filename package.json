@@ -12,7 +12,7 @@
     "url" : "http://github.com/substack/dnode.git"
   },
   "dependencies" : {
-    "dnode-protocol" : "~0.2.2",
+    "dnode-protocol" : "Ivshti/dnode-protocol",
     "super-json" : "0.0.2"
   },
   "optionalDependencies": {
