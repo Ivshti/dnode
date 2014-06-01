@@ -13,7 +13,7 @@
   },
   "dependencies" : {
     "dnode-protocol" : "Ivshti/dnode-protocol",
-    "super-json" : "0.0.2"
+    "super-json" : "Ivshti/super-json"
   },
   "optionalDependencies": {
     "weak": "~0.3.0"
